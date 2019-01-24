@@ -1,0 +1,11 @@
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\bin\Debug\netcoreapp2.2\RedisImplementation.deps.json
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\bin\Debug\netcoreapp2.2\RedisImplementation.runtimeconfig.json
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\bin\Debug\netcoreapp2.2\RedisImplementation.runtimeconfig.dev.json
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\bin\Debug\netcoreapp2.2\RedisImplementation.dll
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\obj\Debug\netcoreapp2.2\RedisImplementation.csprojAssemblyReference.cache
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\obj\Debug\netcoreapp2.2\RedisImplementation.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\obj\Debug\netcoreapp2.2\RedisImplementation.AssemblyInfoInputs.cache
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\obj\Debug\netcoreapp2.2\RedisImplementation.AssemblyInfo.cs
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\bin\Debug\netcoreapp2.2\RedisImplementation.pdb
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\obj\Debug\netcoreapp2.2\RedisImplementation.dll
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\RedisImplementation\obj\Debug\netcoreapp2.2\RedisImplementation.pdb

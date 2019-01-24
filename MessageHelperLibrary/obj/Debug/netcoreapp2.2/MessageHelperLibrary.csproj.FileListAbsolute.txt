@@ -1,0 +1,11 @@
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\bin\Debug\netcoreapp2.2\MessageHelperLibrary.deps.json
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\bin\Debug\netcoreapp2.2\MessageHelperLibrary.runtimeconfig.json
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\bin\Debug\netcoreapp2.2\MessageHelperLibrary.runtimeconfig.dev.json
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\bin\Debug\netcoreapp2.2\MessageHelperLibrary.dll
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\bin\Debug\netcoreapp2.2\MessageHelperLibrary.pdb
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\obj\Debug\netcoreapp2.2\MessageHelperLibrary.csprojAssemblyReference.cache
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\obj\Debug\netcoreapp2.2\MessageHelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\obj\Debug\netcoreapp2.2\MessageHelperLibrary.AssemblyInfoInputs.cache
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\obj\Debug\netcoreapp2.2\MessageHelperLibrary.AssemblyInfo.cs
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\obj\Debug\netcoreapp2.2\MessageHelperLibrary.dll
+C:\Users\yigit\Documents\Visual Studio 2017\Projects\MambaCalisma\MessageHelperLibrary\obj\Debug\netcoreapp2.2\MessageHelperLibrary.pdb

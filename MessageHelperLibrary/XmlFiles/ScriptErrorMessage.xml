@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ErrorMessage>
+  <Message name="CheckDatabaseName">
+    <value>Scriptte database adı olmak zorundadır</value>
+  </Message>
+  <Message name="CheckSchemaName">
+    <value>Schema adı girilmelidir</value>
+  </Message>
+  <Message name="CheckMambaType">
+    <value>Script Mamba tipinde değildir</value>
+  </Message>
+</ErrorMessage>
